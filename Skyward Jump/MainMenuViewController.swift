@@ -32,6 +32,6 @@ class MainMenuViewController: UIViewController {
     }
     */
     
-    //Test test test teste test
+    //Nothing here
 
 }
